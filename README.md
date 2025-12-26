@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiarash Sabbaghi</h1>
-<h3 align="center">Data Analyst | Python & C++ Developer</h3>
+<h3 align="center">Data Analyst | Python  Developer</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kiarash-sabbaghi" target="_blank">
@@ -14,10 +14,10 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data_Analysis-4CAF50?style=for-the-badge&logo=google-analytics&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
 <br/>
 
@@ -30,6 +30,7 @@
 ---
 
 ### 🚀 What I do
+- Developing Python programs and applications
 - Data Analysis & Visualization with Python
 - Dashboarding with Power BI & Excel
 - SQL & MongoDB databases
@@ -47,7 +48,6 @@
 <br/>
 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 <br/>
