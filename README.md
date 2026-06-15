@@ -112,7 +112,7 @@ Data Analyst • Machine Learning Enthusiast • Python Developer
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kiarash-sabbaghii-giit&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiarash-sabbaghii-giitE&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiarash-sabbaghii-giit&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
