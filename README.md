@@ -80,7 +80,7 @@ Data Analyst • Machine Learning Enthusiast • Python Developer
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres,sqlserver"/>
 
 </p>
 
