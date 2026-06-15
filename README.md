@@ -80,7 +80,10 @@ Data Analyst • Machine Learning Enthusiast • Python Developer
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres,sqlserver"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres"/>
+<br><br>
+<img
+src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
 </p>
 
