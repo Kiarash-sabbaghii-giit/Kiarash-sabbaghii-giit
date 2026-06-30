@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋 I'm Kiarash Sabbaghi</h1>
 
 <h3 align="center">
-Data Analyst • Machine Learning Enthusiast • Python Developer
+Data Analyst • Machine Learning Engineer • Python Developer
 </h3>
 
 <p align="center">
